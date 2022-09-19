@@ -1,5 +1,5 @@
 # Base image
-FROM jaegertracing/all-in-one:1.19.2
+FROM jaegertracing/all-in-one:1.38.0
 
 # Expose ports
 EXPOSE 5775/udp
